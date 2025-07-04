@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Awesh+Kumar;Welcome+to+my+GitHub+profile;Coding+is+my+craft;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Jai Parkash;Welcome+to+my+GitHub+profile;Coding+is+my+craft;" alt="Typing SVG"/></h1>
     <p><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Terminal GH GIF" /></p>
 </div>
 
@@ -12,20 +12,20 @@
 <h2>🌐 Connect with Me</h2>
 <p>Let’s collaborate on exciting tech projects! Whether it’s MERN, AI, Blockchain, or Backend Systems — I’m always ready to contribute and learn. Feel free to reach out!</p>
 <div>
-  <a href="https://www.linkedin.com/in/awesh-kumar-05169424b">
-    <img src="https://img.shields.io/badge/AweshKumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="www.linkedin.com/in/jai-parkash-b442372b1">
+    <img src="https://img.shields.io/badge/jai-parkash-b442372b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/aweshkumar0346">
+  <a href="https://github.com/Jaiparkash844">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/malhi_awesh">
+  <a href="https://www.instagram.com/jaiparkashmalhi/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://medium.com/@aweshkumar0346">
+  <a href="https://medium.com/@jaiparkash-4182">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=aweshkumar0346&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=jaiparkash-4182&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
@@ -33,7 +33,7 @@
 <div align="center">
   <h2>📊 Github Activity</h2>
   <p>Here’s a sneak peek into my daily development journey! Every contribution reflects my learning and growth 🚀</p>
-  <img src="https://raw.githubusercontent.com/aweshkumar0346/aweshkumar0346/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
+  <img src="https://raw.githubusercontent.com/Jaiparkash844/Jaiparkash844/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
 </div>
 
 ---
@@ -88,17 +88,17 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aweshkumar0346&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aweshkumar0346&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aweshkumar0346&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaiparkash844&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jaiparkash844&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaiparkash844&layout=compact&theme=default" />
 </div>
 
 ---
 
 <h2 align="center">🔗 Quick Links</h2>
 <div align="center">
-  <a href="https://github.com/aweshkumar0346/Help.com-FYP">Help.com (FYP)</a> |
-  <a href="https://github.com/aweshkumar0346/Credit-Scoring-Model">Credit Scoring Model</a> |
-  <a href="https://github.com/aweshkumar0346/PathFinding-Visualizer">PathFinding Visualizer</a> |
-  <a href="https://github.com/aweshkumar0346/QuizMaster">QuizMaster Game</a>
+  <a href="https://github.com/Jaiparkash844/Help.com-FYP">Help.com (FYP)</a> |
+  <a href="https://github.com/Jaiparkash844/Credit-Scoring-Model">Credit Scoring Model</a> |
+  <a href="https://github.com/Jaiparkash844/PathFinding-Visualizer">PathFinding Visualizer</a> |
+  <a href="https://github.com/Jaiparkash844/QuizMaster">QuizMaster Game</a>
 </div>
