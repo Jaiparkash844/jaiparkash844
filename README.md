@@ -39,8 +39,8 @@
 <div align="center">
   <h2>📊 Github Activity</h2>
   <p>Here’s a sneak peek into my daily development journey! Every contribution reflects my learning and growth 🚀</p>
-  <img src="https://raw.githubusercontent.com/Jaiparkash844/Jaiparkash844/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
-</div>
+<img src="https://github.com/Jaiparkash844/Jaiparkash844/blob/output/github-contribution-grid-snake.svg?raw=true" />
+
 
 ---
 
