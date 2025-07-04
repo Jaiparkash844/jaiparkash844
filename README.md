@@ -1,34 +1,37 @@
 <div align="center">
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=700&lines=Hey..+I'm+JaiParkash;Welcome+to+my+GitHub+profile;Coding+is+my+craft;" alt="Typing SVG"/>
-</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=750&lines=Hey..+I'm+JaiParkash;Welcome+to+my+GitHub+profile;Coding+is+my+craft;" alt="Typing SVG"/>
 
-    <p><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Terminal GH GIF" /></p>
+  <p><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Terminal GH GIF" /></p>
 </div>
+
+---
 
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm a Computer Science undergraduate and Full Stack Developer passionate about turning ideas into reality through code. With expertise in the MERN stack, Blockchain, and AI integrations, I strive to build impactful tech solutions. Currently seeking full-time roles and internships in Web & Software Development.</p>
 </div>
 
+---
+
 <div align="center">
 <h2>🌐 Connect with Me</h2>
 <p>Let’s collaborate on exciting tech projects! Whether it’s MERN, AI, Blockchain, or Backend Systems — I’m always ready to contribute and learn. Feel free to reach out!</p>
 <div>
-  <a href="www.linkedin.com/in/jai-parkash-b442372b1">
-    <img src="https://img.shields.io/badge/jai-parkash-b442372b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/jai-parkash-b442372b1">
+    <img src="https://img.shields.io/badge/LinkedIn-jai--parkash--b442372b1-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Jaiparkash844">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Jaiparkash844-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/jaiparkashmalhi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-jaiparkashmalhi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://medium.com/@jaiparkash-4182">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-jaiparkash--4182-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=jaiparkash-4182&style=for-the-badge" alt="Profile views" />
+
+<img src="https://komarev.com/ghpvc/?username=Jaiparkash844&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
